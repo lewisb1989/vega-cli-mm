@@ -1,0 +1,18 @@
+[
+  {
+    "vegaId": "12345",
+    "externalId": "99999",
+    "priceSource": "Pyth",
+    "spread": 0.001,
+    "exposureLimit": 1,
+    "lpRatio": 0.2
+  },
+  {
+    "vegaId": "67890",
+    "externalId": "88888",
+    "priceSource": "Binance",
+    "spread": 0.001,
+    "exposureLimit": 1,
+    "lpRatio": 0.2
+  }
+]

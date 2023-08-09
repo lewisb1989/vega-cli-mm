@@ -4,11 +4,11 @@ import (
 	"os"
 	"os/signal"
 	"syscall"
-	"vega-mm/api"
-	"vega-mm/bot"
-	"vega-mm/logging"
-	"vega-mm/store"
-	"vega-mm/vega"
+	"vega-cli-mm/api"
+	"vega-cli-mm/bot"
+	"vega-cli-mm/logging"
+	"vega-cli-mm/store"
+	"vega-cli-mm/vega"
 )
 
 const CoreNode = "darling.network:3007"

@@ -22,8 +22,8 @@ import (
 	"strconv"
 	"sync"
 	"time"
-	"vega-mm/logging"
-	"vega-mm/store"
+	"vega-cli-mm/logging"
+	"vega-cli-mm/store"
 )
 
 const NumberOfPastBlocksKey = "spam.pow.numberOfPastBlocks"

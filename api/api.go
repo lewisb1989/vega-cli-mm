@@ -1,6 +1,6 @@
 package api
 
-import "vega-mm/store"
+import "vega-cli-mm/store"
 
 type Api struct {
 	store *store.Store

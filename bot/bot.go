@@ -8,10 +8,10 @@ import (
 	"io"
 	"os"
 	"time"
-	"vega-mm/auth"
-	"vega-mm/logging"
-	"vega-mm/store"
-	"vega-mm/vega"
+	"vega-cli-mm/auth"
+	"vega-cli-mm/logging"
+	"vega-cli-mm/store"
+	"vega-cli-mm/vega"
 )
 
 type Bot struct {

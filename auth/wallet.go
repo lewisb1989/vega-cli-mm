@@ -8,7 +8,7 @@ import (
 	"golang.org/x/exp/maps"
 	"log"
 	"strings"
-	"vega-mm/store"
+	"vega-cli-mm/store"
 )
 
 type Wallet struct {

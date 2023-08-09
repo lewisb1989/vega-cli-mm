@@ -7,9 +7,9 @@ import (
 	"context"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"
-	"vega-mm/auth"
-	"vega-mm/logging"
-	"vega-mm/store"
+	"vega-cli-mm/auth"
+	"vega-cli-mm/logging"
+	"vega-cli-mm/store"
 )
 
 type Vega struct {

@@ -1,4 +1,4 @@
-module vega-mm
+module vega-cli-mm
 
 go 1.19
 
